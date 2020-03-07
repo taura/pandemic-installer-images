@@ -1,7 +1,7 @@
 pandemic installer images
 =========================
 
-This repository contains "ready-to-burn" images of pandemic master.
+This repository contains "ready-to-burn" images of pandemic master, made by pandemic-installer tool.  To use these images, you don't need pandemic-installer.
 
 how to use
 =========================
